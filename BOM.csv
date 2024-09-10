@@ -1,0 +1,20 @@
+label,count,id,mouser,url,description
+FB1,1,MMZ1608S601ATD25,810-MMZ1608S601ATD25,https://componentsearchengine.com/part/160404540/model/download,Ferrite bead; 600 Ohm impedance; 500 mA max. DC current; 25% tolerance; -55 - +125 C
+R1; R2; R3,3,MCT06030C1001FP500,594-MCT06030C1001FP5,https://componentsearchengine.com/part/42332702/model/download,Resistors for LEDs and boot; 1 kOhm +/- 1 %; 75 V; 125 mW; 50 PPM/C; -55 - + 125 C
+R4; R5,2,MCT06030C1002FP500,594-MCT06030C1002FP5,https://componentsearchengine.com/part/3782123/model/download,Resistor for external memory and boot; 10 kOhm +/- 1 %; 75 V; 125 mW; 50 PPM/C; -55 - + 125 C
+R6;R7,2,TNPU06035K10AYEN00,71-TNPU06035K10AYEN0,https://www.mouser.com/ProductDetail/Vishay/TNPU06035K10AYEN00?qs=sGAEpiMZZMtlubZbdhIBIE9zLnQz0Jsx5UEWLju6VLw%3D,Thin Film Resistors - SMD TNPU0603 5.1Kohms 0.05% 10ppm
+C1; C2; C3; C4,4,0603ZA220JAT2A,581-0603ZA220JAT2A,https://componentsearchengine.com/part/-2323944/model/download,Caps for Xtals; 22 pF +/- 5 %; 10 VDC; C0G (NP0); -55 - +125 C
+C5,1,GRM1857U1A103JA44D,81-GRM1857U1A103JA4D,https://componentsearchengine.com/part/14556537/model/download,Cap for MCU VDDA; 10 nF (0.01 uF) +/- 5 %;10 VDC; U2J; -55 - +125 C
+C6; C7; C8; C9; C10; C11,6,0603ZC104JAT2A,581-0603ZC104JAT2A,https://componentsearchengine.com/part/212919/model/download,"Caps for external memory, NRST, and MCU VREF and VDD; 100 nF (0.1 uF) +/- 5 %; 10 VDC; X7R; -55 - +125 C"
+C12; C13,2,0603ZC105JAT2A,581-0603ZC105JAT2A,https://componentsearchengine.com/part/25694821/model/download,Caps for MCU VDDA and VREF; 1 uF +/- 5 %; 10 VDC; X7R; -55 - +125 C
+C14,1,GRM188C71A475KE21D,81-GRM188C71A475KE2D,https://componentsearchengine.com/part/-765775/model/download,Cap for MCU VDD; 4.7 uF +/- 10 %; 10 VDC; X7S; -55 - +125 C
+C15,1,597D158X9004R2T,71-597D158X9004R2T,https://componentsearchengine.com/part/2943863/model/download,Cap for MCU VBAT; 1500 uF +/- 10 %; 4 VDC; 15 mOhm ESR; 60 uA leakage current; -55 - +125 C
+C16:C17,2,MAJCT168BB7105KTEA01,963-MAJCT168BB7105KT,https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MAJCT168BB7105KTEA01?qs=ZcfC38r4PotKRnvquyYkSA%3D%3D,Capacitor for the LDO 
+J9,1,4458,,https://www.adafruit.com/product/4458,USB C Connector
+LED1; LED2,2,LG Q396-PS-35,720-LGQ396A3964,https://componentsearchengine.com/part/-326177/model/download,Green LED (573 nm); If 20 mA; Vf 2.4 V; -30 - +85 C
+Y1,1,ABM8AIG-16.000MHz-12-2Z-T,815-ABM8AIG16122ZT,https://componentsearchengine.com/part/-1712653/model/download,12 pF; 16 MHz; 20 PPM tolerance; 50 PPM frequency stability; 10 uW drive level; -40 C to +125 C
+Y2,1,ABS07AIG-32.768kHz-T,815-S07AIG-32.768T,https://componentsearchengine.com/part/-631062/model/download,12.5 pF; 32.768 kHz; 20 PPM tolerance; 100 nW drive level; -40 C to +125 C
+IC1,1,STM32L496RGT3,511-STM32L496RGT3,https://componentsearchengine.com/part/229153680/model/download,ARM Cortex M4; 32 bit; 80 MHz; 1 MB program memory; 320 kB data RAM; 12 bit ADC; 52 I/O; 1.71 V to 3.6 V; -40 C to +125 C
+IC2,1,IS25LP128F-JBLA3,870-IS25LP128F-JBLA3,https://componentsearchengine.com/part/246682777/model/download,NOR flash; 128 Mbit; 133 MHz; SPI; 13.5 mA supply current; -40 C to +125 C
+Alt IC2,,S25FL128LAGMFM010,727-S25FL128LAGMF010,,
+U1,1,TPS7A0533PDBV,595-TPS7A0533PDBZT,https://www.mouser.com/ProductDetail/Texas-Instruments/TPS7A0533PDBZT?qs=XeJtXLiO41TGOwlqGwgbhA%3D%3D,"Linear Drop Out, Input Voltage of 5V and an Output of 3.3V"
