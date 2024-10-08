@@ -10,7 +10,7 @@ C12; C13,2,0603ZC105JAT2A,581-0603ZC105JAT2A,https://componentsearchengine.com/p
 C14,1,GRM188C71A475KE21D,81-GRM188C71A475KE2D,https://componentsearchengine.com/part/-765775/model/download,Cap for MCU VDD; 4.7 uF +/- 10 %; 10 VDC; X7S; -55 - +125 C
 C15,1,597D158X9004R2T,71-597D158X9004R2T,https://componentsearchengine.com/part/2943863/model/download,Cap for MCU VBAT; 1500 uF +/- 10 %; 4 VDC; 15 mOhm ESR; 60 uA leakage current; -55 - +125 C
 C16:C17,2,MAJCT168BB7105KTEA01,963-MAJCT168BB7105KT,https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MAJCT168BB7105KTEA01?qs=ZcfC38r4PotKRnvquyYkSA%3D%3D,Capacitor for the LDO 
-J9,1,4458,,https://www.adafruit.com/product/4458,USB C Connector
+J9,1,4458,,https://www.mouser.com/ProductDetail/Adafruit/4458?qs=xZ%2FP%252Ba9zWqYgb2BJNda6mA%3D%3D,USB C Connector
 LED1; LED2,2,LG Q396-PS-35,720-LGQ396A3964,https://componentsearchengine.com/part/-326177/model/download,Green LED (573 nm); If 20 mA; Vf 2.4 V; -30 - +85 C
 Y1,1,ABM8AIG-16.000MHz-12-2Z-T,815-ABM8AIG16122ZT,https://componentsearchengine.com/part/-1712653/model/download,12 pF; 16 MHz; 20 PPM tolerance; 50 PPM frequency stability; 10 uW drive level; -40 C to +125 C
 Y2,1,ABS07AIG-32.768kHz-T,815-S07AIG-32.768T,https://componentsearchengine.com/part/-631062/model/download,12.5 pF; 32.768 kHz; 20 PPM tolerance; 100 nW drive level; -40 C to +125 C
