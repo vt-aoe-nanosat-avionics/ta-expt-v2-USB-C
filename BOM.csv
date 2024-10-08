@@ -17,4 +17,4 @@ Y2,1,ABS07AIG-32.768kHz-T,815-S07AIG-32.768T,https://componentsearchengine.com/p
 IC1,1,STM32L496RGT3,511-STM32L496RGT3,https://componentsearchengine.com/part/229153680/model/download,ARM Cortex M4; 32 bit; 80 MHz; 1 MB program memory; 320 kB data RAM; 12 bit ADC; 52 I/O; 1.71 V to 3.6 V; -40 C to +125 C
 IC2,1,IS25LP128F-JBLA3,870-IS25LP128F-JBLA3,https://componentsearchengine.com/part/246682777/model/download,NOR flash; 128 Mbit; 133 MHz; SPI; 13.5 mA supply current; -40 C to +125 C
 Alt IC2,,S25FL128LAGMFM010,727-S25FL128LAGMF010,,
-U1,1,TPS7A0533PDBV,595-TPS7A0533PDBZT,https://www.mouser.com/ProductDetail/Texas-Instruments/TPS7A0533PDBZT?qs=XeJtXLiO41TGOwlqGwgbhA%3D%3D,"Linear Drop Out, Input Voltage of 5V and an Output of 3.3V"
+U1,1,TPS7A0533PDBV,595-TPS7A0533PDBZT,https://www.mouser.com/ProductDetail/Texas-Instruments/TPS7A0533PDBVR?qs=vdi0iO8H4N0h9F4GOtQJBA%3D%3D&utm_id=9042821733&gad_source=1&gclid=Cj0KCQjwsJO4BhDoARIsADDv4vCf9_GqT1eDJGrpsgfG7YNDoKOH6ox0lSa48NS3PAyki6okArr7VSUaAj8GEALw_wcB,"Linear Drop Out, Input Voltage of 5V and an Output of 3.3V"
